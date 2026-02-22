@@ -1,6 +1,6 @@
 # is120-hw6-hamidjaeyoung-jahangir
 
-LIVE LINK: TBA
+LIVE LINK: https://hamidjae.github.io/is120-hw6-hamidjaeyoung-jahangir/
 
 ## Flexbox Froggy Completion
 
