@@ -23,7 +23,7 @@ I like to use Grid more, simply because I find that using Grid to allocate the s
 
 ## Responsive Design
 
-I added two media queries at 900px and 600px The 900px media query changes the body so that it becomes one column instead of two, and transforms the sidebar from a vertical column to a horizontal row that automatically wraps in responsive to different sizes within the media query threshold. Meanwhile, the 600px media query allows the navbar to wrap, and transforms the cards to become more dynamic in response to resizing, going from 300px fixed.
+I added two media queries at 900px and 600px. The 900px media query changes the body so that it becomes one column instead of two, and transforms the sidebar from a vertical column to a horizontal row that automatically wraps in responsive to different sizes within the media query threshold. Meanwhile, the 600px media query allows the navbar to wrap, and transforms the cards to become more dynamic in response to resizing, going from 300px fixed.
 
 The Bootstrap standard breakpoints for small sizes is 576px, with Tailwind having it at 640px. My breakpoint is at 600px instead. For Bootstrap, large size is at 992px while Tailwind has it at 1024px. My breakpoint is at 900px instead.
 I would say that for small sizes, I have quite similar breakpoints (I chose 600 because it was a nicer, rounder number) but I am at least 92 pixels away from the large size.
